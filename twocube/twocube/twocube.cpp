@@ -2,6 +2,8 @@
 //
 
 #include "stdafx.h"
+#include <gl/glew.h>
+#include <gl/glfw3.h>
 #include "gl/glut.h"
 #include <math.h>
 #include <stdio.h>
