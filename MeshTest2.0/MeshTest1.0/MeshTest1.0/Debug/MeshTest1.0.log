@@ -1,0 +1,30 @@
+﻿Build started 2016/5/2 22:25:06.
+     1>Project "F:\大三下学期\OpenGL\MeshTest2.0\MeshTest1.0\MeshTest1.0\MeshTest1.0.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(91): warning C4316: 'RenderObject' : object allocated on the heap may not be aligned 16
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(96): warning C4316: 'RenderObject' : object allocated on the heap may not be aligned 16
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(101): warning C4316: 'RenderObject' : object allocated on the heap may not be aligned 16
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(106): warning C4316: 'RenderObject' : object allocated on the heap may not be aligned 16
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(111): warning C4316: 'RenderObject' : object allocated on the heap may not be aligned 16
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(116): warning C4316: 'RenderObject' : object allocated on the heap may not be aligned 16
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(169): warning C4316: 'RenderObject' : object allocated on the heap may not be aligned 16
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(173): warning C4316: 'RenderObject' : object allocated on the heap may not be aligned 16
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(177): warning C4316: 'RenderObject' : object allocated on the heap may not be aligned 16
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(181): warning C4316: 'RenderObject' : object allocated on the heap may not be aligned 16
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(185): warning C4316: 'RenderObject' : object allocated on the heap may not be aligned 16
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(189): warning C4316: 'RenderObject' : object allocated on the heap may not be aligned 16
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(290): warning C4244: '=' : conversion from 'double' to 'GLuint', possible loss of data
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(291): warning C4244: '=' : conversion from 'double' to 'GLuint', possible loss of data
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(404): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\大三下学期\opengl\meshtest2.0\meshtest1.0\meshtest1.0\main.cpp(458): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\大三下学期\OpenGL\MeshTest2.0\MeshTest1.0\Debug\MeshTest1.0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\大三下学期\OpenGL\MeshTest2.0\MeshTest1.0\Debug\MeshTest1.0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\大三下学期\OpenGL\MeshTest2.0\MeshTest1.0\Debug\MeshTest1.0.lib" /MACHINE:X86 Debug\Main.obj
+     1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+         MeshTest1.0.vcxproj -> F:\大三下学期\OpenGL\MeshTest2.0\MeshTest1.0\Debug\MeshTest1.0.exe
+     1>Done Building Project "F:\大三下学期\OpenGL\MeshTest2.0\MeshTest1.0\MeshTest1.0\MeshTest1.0.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.62
