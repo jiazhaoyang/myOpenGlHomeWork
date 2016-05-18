@@ -1,0 +1,11 @@
+﻿Build started 2016/5/18 19:37:36.
+     1>Project "F:\大三下学期\OpenGL\栈的基本操作\栈的基本操作\栈的基本操作.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\栈的基本操作.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "栈的基本操作.cpp"
+         栈的基本操作.cpp
+     1>f:\大三下学期\opengl\栈的基本操作\栈的基本操作\栈的基本操作.cpp(21): error C3861: 'emptyStack': identifier not found
+     1>Done Building Project "F:\大三下学期\OpenGL\栈的基本操作\栈的基本操作\栈的基本操作.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.35
